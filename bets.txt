@@ -1,0 +1,39 @@
+﻿Mecz,Waluś,Fifi,Marek Wojtek,Samiec,Królik,nr
+Francja - Rumunia,3:0,3:1,2:2,2:0,2:1,149855
+Albania - Szwajcaria,0:2,0:1,0:3,1:2,0:2,149885
+Walia - Słowacja,0:1,2:1,0:0,1:1,1:0,149861
+Anglia - Rosja,2:0,1:0,2:1,3:1,3:1,149860
+Turcja - Chorwacja,1:4,1:2,2:2,0:2,1:1,149873
+Polska - Irlandia Północna,3:0,2:2,1:0,0:1,2:1,149867
+Niemcy - Ukraina,1:1,3:1,3:0,3:0,2:0,149866
+Hiszpania - Czechy,0:0,2:0,3:1,2:0,3:0,149872
+Irlandia - Szwecja,0:1,1:0,1:0,1:1,2:2,149879
+Belgia - Włochy,2:0,1:1,1:1,3:0,2:2,149878
+Austria - Węgry,2:0,1:0,0:1,3:1,1:0,149882
+Portugalia - Islandia,5:0,3:0,3:0,2:2,2:0,149888
+Rumunia - Szwajcaria,1:1,0:2,1:0,0:2,0:0,149854
+Francja - Albania,6:0,2:0,2:0,4:1,4:0,149884
+Rosja - Słowacja,1:2,2:1,3:1,1:1,2:0,149859
+Anglia - Walia,3:0,2:1,2:0,2:0,3:0,149858
+Ukraina - Irlanida Północna,3:1,0:1,2:0,3:0,2:0,149865
+Niemcy - Polska,1:3,2:1,2:2,2:1,1:1,149864
+Czechy - Chorwacja,1:3,0:2,1:2,0:2,1:2,149871
+Hiszpania - Turcja,1:1,2:1,3:1,3:0,2:1,149870
+Włochy - Szwcja,1:0,1:1,2:0,0:2,2:2,149877
+Belgia - Irlandia,3:0,2:1,2:1,3:0,2:0,149876
+Islanida - Węgry,1:1,0:1,0:1,1:1,2:0,149887
+Portugalia - Austria,3:1,1;1,2:1,2:2,1:1,149881
+Szwajcaria - Francja,1:1,1:0,0:3,1:3,0:2,149853
+Rumunia - Albania,4;0,2:0,3:0,0:0,2:0,149883
+Rosja - Walia,1:2,2:1,1:0,2:1,1:1,149856
+Słowacja - Anglia,1:1,0:1,1:3,0:3,1:2,149857
+Ukraina - Polska,2:3,1:2,1:1,0:2,0:1,149863
+Irlandia Północna - Niemcy,0:5,0:2,0:3,2:7,0:4,149862
+Czechy - Turcja,2:1,1:0,1:2,1:1,1:1,149869
+Chorwacja - Hiszpania,2:1,2:1,2:2,1:3,2:3,149868
+Włochy - Irlandia,2:0,1:1,2:0,1:0,2:0,149874
+Szwecja - Belgia,1:1,1:2,0:3,3:1,1:0,149875
+Islandia - Austria,1:2,0:2,1:0,0:2,1:0,149886
+Węgry - Portugalia,0:3,1:3,0:2,0:5,0:3,149880
+
+
